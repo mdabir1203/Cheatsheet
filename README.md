@@ -7,8 +7,7 @@
 ## Sample Demo : 
 
 
-
-https://github.com/mdabir1203/Cheatsheet/assets/66947064/cc7126eb-d72c-4058-9185-cd67df3e8e33***Demo Video***
+https://github.com/mdabir1203/Cheatsheet/assets/66947064/cc7126eb-d72c-4058-9185-cd67df3e8e33 *Demo Video*
 
 [Interview Phrase Demo](https://github.com/mdabir1203/Cheatsheet/assets/66947064/2e779e25-90f5-4dd7-9786-fdd63a1a3c53)
 
