@@ -20,4 +20,4 @@ This playbook has the best phrases to communicate with your interviewer. You wil
 Order your copy today and rock your next interview! : 
 
 
-![[image](https://abir4.gumroad.com/l/dbnrjo)](https://github.com/mdabir1203/Cheatsheet/assets/66947064/ec4d479f-c0d5-450a-be0a-04b32a0aee1b)
+![[image](https://abir4.gumroad.com/l/dbnrjo)]
