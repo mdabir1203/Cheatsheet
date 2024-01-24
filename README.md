@@ -6,7 +6,7 @@
 ## Sample Pic : 
 
 
- <img src="https://github.com/mdabir1203/Cheatsheet/assets/66947064/7b37fff4-9925-4c4e-a200-59e4bda84665" width="500" height="500">
+ <img src="https://github.com/mdabir1203/Cheatsheet/assets/66947064/7b37fff4-9925-4c4e-a200-59e4bda84665" width="300" height="300">
 
 
 This playbook has the best phrases to communicate with your interviewer. You will learn how to:
