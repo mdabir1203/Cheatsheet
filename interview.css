@@ -106,6 +106,27 @@ em {
     font-style: italic;
 }
 
+
+.title {
+    font-family: 'Consolas', 'Monaco', 'Lucida Console', monospace;
+    font-size: 2em; /* Adjust the size as needed */
+    font-weight: 800;
+    color: #333333; /* Dark gray for text */
+    margin: 0px 10vw;
+    width: 80vw;
+    position: relative;
+    height: 1.2em;
+    overflow: hidden;
+}
+
+.animated-text {
+    position: absolute;
+    width: 100%;
+    line-height: 1.2em;
+}
+
+
+
 /* New rules for the sliding text effect */
 .title .slide {
     display: inline-block;
