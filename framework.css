@@ -5,6 +5,18 @@ body {
     line-height: 1.6;
 }
 
+#main-header {
+    text-align: center;
+    font-size: 2em; /* Increase the font size */
+    color: #333; /* Dark grey color for the text */
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 10px; /* Add some padding around the text */
+    margin-bottom: 20px; /* Add some space below the header */
+    z-index: 1; /* Set the z-index to 1 */
+    position: relative; /* Required for z-index to work */
+}
+
+
 footer {
     margin-top: auto;
     text-align: right;

@@ -19,7 +19,22 @@ footer {
     50% { color: #FF4500; } /* Orangish-red color at the midpoint of the animation */
 }
 
+.side .title {
+    font-family: 'Consolas', 'Monaco', 'Lucida Console', monospace;
+    font-size: 2em; /* Adjust the size as needed */
+    font-weight: 800;
+    color: #333333; /* Dark gray for text */
+    margin: 0px 10vw;
+    width: 80vw;
+}
 
+.side .fancy {
+    font-family: 'Consolas', 'Monaco', 'Lucida Console', monospace;
+    font-size: 1.8em; /* Adjust the size as needed */
+    line-height: 0.6em;
+    color: #008000; /* Green color for the text */
+    font-weight: bold;
+}
 
 .container {
     display: flex;
@@ -51,7 +66,6 @@ footer {
 h1 {
     text-align: center;
 }
-
 
 h2 {
     color: #008000; /* Green for headers */
@@ -92,3 +106,36 @@ em {
     font-style: italic;
 }
 
+/* New rules for the sliding text effect */
+.title .slide {
+    display: inline-block;
+    vertical-align: top;
+    color: #333;
+    overflow: hidden;
+    position: relative;
+    height: 1em;
+    line-height: 1em;
+}
+
+.title .slide .text {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.title .slide .text:nth-child(2) {
+    transform: translateY(100%);
+}
+
+.title .slide:hover .text:nth-child(1) {
+    transform: translateY(-100%);
+}
+
+.title .slide:hover .text:nth-child(2) {
+    transform: translateY(0);
+}
+
+.title .slide .text {
+    transition: transform 0.3s ease;
+}
