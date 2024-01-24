@@ -9,7 +9,7 @@ Want to ace your tech interviews? Get the Tech Interview Phrase Playbook!
 ## Sample Pic : 
 
 
-![Screencastfrom24 01 2024061907-ezgif com-video-to-gif-converter](https://github.com/mdabir1203/Cheatsheet/assets/66947064/7b37fff4-9925-4c4e-a200-59e4bda84665)
+# ![Screencastfrom24 01 2024061907-ezgif com-video-to-gif-converter](https://github.com/mdabir1203/Cheatsheet/assets/66947064/7b37fff4-9925-4c4e-a200-59e4bda84665)
 
 
 This playbook has the best phrases to communicate with your interviewer. You will learn how to:
