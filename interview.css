@@ -79,8 +79,15 @@ footer {
     transform: perspective(500px) translateZ(20px);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Code+Pro&display=swap');
+
+
 h1 {
     text-align: center;
+    color: #333333; /* Green for headers */
+    font-weight: bold;
+    font-family: Lato, sans-serif;
+    overflow: hidden;
 }
 
 h2 {
@@ -124,7 +131,7 @@ em {
 
 
 .title {
-    font-family: 'Consolas', 'Monaco', 'Lato', sans-serif;
+    font-family: 'Source Code Pro', sans-serif;
     font-size: 2em; /* Adjust the size as needed */
     font-weight: 800;
     color: #000000; /* Dark gray for text */

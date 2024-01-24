@@ -1,7 +1,5 @@
 {
  "rewrites": [
     { "source": "/", "destination": "/Interview.html" }
-    { "source": "/", "destination": "/Framework.html" }
-  
  ]
 }
