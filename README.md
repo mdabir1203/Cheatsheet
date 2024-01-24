@@ -1,8 +1,7 @@
 ##  Want to ace your tech interviews? Get the Tech Interview Phrase Playbook!
 
 
-![image](https://github.com/mdabir1203/Cheatsheet/assets/66947064/cc97f93e-b050-4ad5-b0ad-1aa0516718ca)
-
+<img src="https://github.com/mdabir1203/Cheatsheet/assets/66947064/cc97f93e-b050-4ad5-b0ad-1aa0516718ca" width="500" height="300">
 
 ## Sample Pic : 
 
